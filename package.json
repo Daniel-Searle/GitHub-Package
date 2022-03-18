@@ -1,0 +1,22 @@
+{
+  "name": "github-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Searle/GitHub-Package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Searle/GitHub-Package/issues"
+  },
+  "homepage": "https://github.com/Daniel-Searle/GitHub-Package#readme",
+  "publishConfig": {
+    "Daniel-Searle:registry": "https://npm.pkg.github.com"
+  }
+}
