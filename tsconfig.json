@@ -10,6 +10,9 @@
       "dom"
     ],
     "target": "es2017",
+    "types": [
+      "node"
+    ],
     "module": "commonjs",
     "moduleResolution": "node",
     "experimentalDecorators": true
