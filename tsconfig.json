@@ -2,7 +2,7 @@
   "compilerOptions": {
     "strict": true,
     "outDir": "./build",
-    "allowJs": false,
+    "allowJs": true,
     "sourceMap": true,
     "declaration": true,
     "lib": [
